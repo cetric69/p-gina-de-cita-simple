@@ -80,3 +80,12 @@ font-size: 2.5rem;
 font-family: 'Julius Sans One', sans-serif;
 text-transform: uppercase;
 }
+.author{
+padding-top: 1rem;
+font-size: 1.5rem;
+font-style: italic;
+font-family: 'Crimson Text'. serif;
+}
+small {
+font-size: smaller;
+}
